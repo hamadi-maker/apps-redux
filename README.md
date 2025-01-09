@@ -1,15 +1,6 @@
 # 🚀 apps-redux: Learn Redux Toolkit with Next.js
 
-Welcome to **apps-redux**, a learning-focused project that demonstrates how to effectively use Redux Toolkit in a Next.js application. This repository provides **three practical examples** to guide you through different Redux Toolkit use cases:
-
-1. **Counter** 🧮  
-   A simple counter to grasp the basics of Redux Toolkit.
-
-2. **Shopping Cart** 🛒  
-   A dynamic shopping cart system to explore advanced state management.
-
-3. **Multi-Step Form** 📋  
-   A multi-step form to learn how to handle complex state workflows.
+Welcome to **apps-redux**, a learning-focused project that demonstrates how to effectively use Redux Toolkit in a Next.js application. This repository provides **three practical examples** to guide you through Redux Toolkit 
 
 ---
 
